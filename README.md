@@ -20,7 +20,7 @@ This is a simple Java application with a graphical user interface (GUI) for calc
 
 ## How to Run
 
-1. **Clone the repository:** `git clone https://github.com/your-username/movie-ticket-app.git`
+1. **Clone the repository:** `git clone https://github.com/JeronOkkers/MovieTicketGUI.git`
 2. **Compile the code:**  You can use an IDE like IntelliJ IDEA or Eclipse to compile the Java files.
 3. **Run the application:** Execute the `MovieTicketGUI.java` file to start the application.
 
