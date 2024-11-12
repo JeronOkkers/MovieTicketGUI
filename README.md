@@ -13,6 +13,11 @@ This is a simple Java application with a graphical user interface (GUI) for calc
 * **Validation:** Validates user input to ensure correct data is entered.
 * **Unit Tests:** Includes JUnit tests to verify the functionality of the core logic.
 
+## Screenshots
+
+![Main Window](png/Screenshot (177).png.png)
+![Report Generated](png/Screenshot (178).png)
+
 ## How to Run
 
 1. **Clone the repository:** `git clone https://github.com/your-username/movie-ticket-app.git`
