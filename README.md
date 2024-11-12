@@ -15,8 +15,8 @@ This is a simple Java application with a graphical user interface (GUI) for calc
 
 ## Screenshots
 
-![Main Window](png/Screenshot (177).png.png)
-![Report Generated](png/Screenshot (178).png)
+![Main Window](png/main_window.png.png)
+![Report Generated](png/report_generated.png)
 
 ## How to Run
 
